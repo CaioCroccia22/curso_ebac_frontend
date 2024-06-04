@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
     background-color: rgb(198, 235, 235);
+    box-sizing: border-box;
 
 }
 
@@ -12,7 +13,16 @@ h1{
 
 
 .divA{
-    padding: 20px;
+    height: 40px;
+    width: 150px;
     border: 2px solid red;
-    margin: 50px;
+
+}
+
+.divB{
+    padding: 20px;
+    border: 2px blue solid;
+    height: 40px;
+    width: 150px;
+
 }
