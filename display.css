@@ -23,6 +23,7 @@ header li {
 
 .articles {
     display: flex;
+    flex-wrap: wrap;
     border: 2px solid red
 }
 
