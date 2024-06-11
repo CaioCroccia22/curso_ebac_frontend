@@ -5,11 +5,11 @@
     
 }
 
-
-
-header, h1{
+h1{
     text-align: center;
 }
+
+
 
 header li {
     display: inline;
@@ -24,6 +24,7 @@ header li {
 .articles {
     display: flex;
     flex-wrap: wrap;
+    flex-direction: column;
     border: 2px solid red
 }
 
