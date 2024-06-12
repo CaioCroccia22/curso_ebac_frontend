@@ -11,6 +11,7 @@ body > header{
     background-color: cadetblue;
     padding: 16px 0;
     color: white;
+    text-align: center;
 }
 
 header .container{
@@ -50,6 +51,18 @@ header li a{
 
 }
 
+.articles article a:hover{
+    text-decoration: none;
+}
+
 .articles article{
     width: 30%;
+}
+
+.articles article h3{
+    font-size: 24px;
+}
+
+section h2{
+    font-size: 32px;
 }
