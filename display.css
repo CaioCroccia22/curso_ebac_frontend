@@ -66,3 +66,7 @@ header li a{
 section h2{
     font-size: 32px;
 }
+
+h1{
+    display: none;
+}
